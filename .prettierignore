@@ -1,2 +1,5 @@
 .devcontainer/**
 .vscode/**
+.cups/**
+.cups-dev/**
+.portainer/**
