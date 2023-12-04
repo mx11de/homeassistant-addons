@@ -1,7 +1,7 @@
 {
   "name": "ioBroker",
-  "version": "0.8.1",
-  "image": "mx11de/homeassistant-addon-iobroker-{arch}",
+  "version": "9.0.1",
+  "image": "buanet/iobroker-{arch}",
   "webui": "http://[HOST]:[PORT:8081]/",
   "slug": "iobroker",
   "description": "Open source automation platform",
