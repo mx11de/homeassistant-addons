@@ -1,7 +1,7 @@
 {
   "name": "ioBroker",
-  "version": "0.8.0",
-  "image": "maxwinterstein/homeassistant-addon-iobroker-{arch}",
+  "version": "0.8.1",
+  "image": "mx11de/homeassistant-addon-iobroker-{arch}",
   "webui": "http://[HOST]:[PORT:8081]/",
   "slug": "iobroker",
   "description": "Open source automation platform",
@@ -40,7 +40,7 @@
     "8089/tcp": "reserved for addition addons"
   },
   "stage": "experimental",
-  "url": "https://github.com/MaxWinterstein/homeassistant-addons/",
+  "url": "https://github.com/mx11de/homeassistant-addons/",
   "hassio_role": "default",
   "hassio_api": true
 }
